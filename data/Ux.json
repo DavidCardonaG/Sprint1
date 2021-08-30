@@ -1,0 +1,31 @@
+{
+    "UX": [
+      {
+        "pregunta": "¿Que es UX?",
+        "imagen": "./images/Niña.png",
+        "correcta": "  Es aquello que una persona percibe al interactuar con un producto o servicio. ",
+        "respuesta1": " Es un atributo de una buena experiencia de usuario y la UI  ",
+        "respuesta2": " Es la interfaz de diseño de compras ",
+        "respuesta3": " Es aquello con lo cual volvemos dinámico el sitio o producto ",
+        "id": 1
+      },
+      {
+        "pregunta": "¿Cual es el objetivo principal de UX con una marca?",
+        "imagen": "./images/Niña.png",
+        "correcta": " Conexión emocional con el cliente",
+        "respuesta1": " Vinculo económico ",
+        "respuesta2": " Posicionamiento ",
+        "respuesta3": " Relación Funcional ",
+        "id": 2
+      },
+      {
+        "pregunta": "¿Que es un UX Writer?'",
+        "imagen": "./images/Niña.png",
+        "correcta": " Es la disciplina encargada de dirigir la redacción de todos los textos y contenido en un producto digital ",
+        "respuesta1": " Es la disciplina encargada de liderar todos los proyectos UX ",
+        "respuesta2": " Es la disciplina encargada del diseño ",
+        "respuesta3": " Es la disciplina basada en la investigación ",
+        "id": 3
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+{
+    "HTML": [
+      {
+        "pregunta": "Que simbolo se utiliza para las etiquetas",
+        "imagen": "./images/Niño.png",
+        "correcta": " <> ",
+        "respuesta1": " ** ",
+        "respuesta2": " // ",
+        "respuesta3": " '' ",
+        "id": 1
+      },
+      {
+        "pregunta": "Como se inserta un comentario en HTML",
+        "imagen": "./images/Niño.png",
+        "correcta": " <!- ->",
+        "respuesta1": " < > ",
+        "respuesta2": " /* */ ",
+        "respuesta3": " // // ",
+        "id": 2
+      },
+      {
+        "pregunta": "Con que etiquete se crean los enlaces dentro de HTML",
+        "imagen": "./images/Niño.png",
+        "correcta": " <a> ",
+        "respuesta1": "<br>",
+        "respuesta2": " <img src> ",
+        "respuesta3": " <div> ",
+        "id": 3
+      }
+    ]
+  }

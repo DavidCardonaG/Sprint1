@@ -1,0 +1,31 @@
+{
+    "CSS": [
+      {
+        "pregunta": "¿Cuál es la forma correcta en HTML para referirse a una hoja de estilos externa?",
+        "imagen": "./images/Niño.png",
+        "correcta": " <link rel=stylesheet type=text/css href=mystyle.css>",
+        "respuesta1": " <style src=mystyle.css> ",
+        "respuesta2": " <stylesheet>mystyle.css</stylesheet> ",
+        "respuesta3": " <link rel=styles href= styles.css> ",
+        "id": 1
+      },
+      {
+        "pregunta": "¿Como se inserta un comentario en CSS?",
+        "imagen": "./images/Niño.png",
+        "correcta": " /* */ ",
+        "respuesta1": " < > ",
+        "respuesta2": " <!- -> ",
+        "respuesta3": " // // ",
+        "id": 2
+      },
+      {
+        "pregunta": "¿Cual es la propiedad para cambiar el color del fondo'",
+        "imagen": "./images/Niño.png",
+        "correcta": " background-color ",
+        "respuesta1": " color ",
+        "respuesta2": " bgcolor ",
+        "respuesta3": " rgba ",
+        "id": 3
+      }
+    ]
+  }

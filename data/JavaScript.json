@@ -1,0 +1,31 @@
+{
+    "JS": [
+      {
+        "pregunta": "¿Cual es el código correcto para que una data.js funcione en el script?",
+        "imagen": "./images/Niño.png",
+        "correcta": " <script type = module src = script.js></script>",
+        "respuesta1": " < javascript _code > y < /javascript_code > ",
+        "respuesta2": " < script > y < /script > ",
+        "respuesta3": " < ?script > y < script? > ",
+        "id": 1
+      },
+      {
+        "pregunta": "¿Cuál es la instrucción usada para devolver un valor en una función de JavaScript?",
+        "imagen": "./images/Niño.png",
+        "correcta": " Return ",
+        "respuesta1": " Send ",
+        "respuesta2": " Value ",
+        "respuesta3": " This ",
+        "id": 2
+      },
+      {
+        "pregunta": "¿Cuál de estas instrucciones está correctamente escrita en Javascript?",
+        "imagen": "./images/Niño.png",
+        "correcta": "  if (a==0) alert (a); ",
+        "respuesta1": " if (a=0) print a; ",
+        "respuesta2": " if (a==0) { print [a] } ",
+        "respuesta3": " if (a==0): print a; ",
+        "id": 3
+      }
+    ]
+  }

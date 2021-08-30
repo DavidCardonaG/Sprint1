@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DAILY BITS</title>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Nunito" />
+    <link rel="stylesheet" href="./styles/styles.css">
+</head>
+
+<body id="body">
+    <header>
+        <div class="contenedor">
+            <h2 class="logotipo">Daily Bits</h2>
+            <nav>
+                <a href="index.html" class="activo">Inicio</a>
+                <a href="index2.html">Login</a>
+                <a href="#">Contacto</a>
+            </nav>
+        </div>
+    </header>
+    <div class="title">
+        <h1>BIENVENIDO A DAILY BITS</h1>
+    </div>
+            <form id="formulario">
+                <div class="inputs">
+                    <div class="input-title">
+                        <h2>REGISTRATE</h2>
+                    </div>
+                    <div class="correo">
+                        <label class="correo-text">Nombre</label>
+                        <input id="name" class="input-correo" type="text" placeholder="Ingrese su Nombre">
+                    </div>
+                    <div class="correo">
+                        <label class="correo-text">Apellido</label>
+                        <input id="lastName" class="input-correo" type="text" placeholder="Ingrese su Apeliido">
+                    </div>
+                </div> 
+                <div class="correo">
+                    <label class="correo-text">Correo electrónico</label>
+                    <input id="email" class="input-correo" type="email" placeholder="Ingrese su correo electrónico">
+                </div>
+                <div class="correo">
+                    <label class="correo-text">Contraseña</label>
+                    <input id="pass" class="input-correo" type="password" placeholder="Ingrese su contraseña">
+                </div>
+                <div class="correo">
+                    <label class="correo-text">Télefono</label>
+                    <input id="telefono" class="input-correo" type="number" placeholder="Ingrese su Télefono">
+                </div>
+                <div class="correo">
+                <label class="correo-text" id="label-edit" for="id">ID</label>
+                <input id="id" name="id"  type="text" placeholder="" readonly>
+                </div>
+        </div>
+
+        <div class="btn-list">
+        
+            <button id="btnEditar" type="button" class="btn">EDITAR PERFIL</button>
+            <button id="btnGuardar" type="submit" class="btn">REGISTARSE</button>
+            <button id="btnBuscar" type="button" class="btn">BUSCAR USUARIO</button>
+
+            <button id="btnEliminar" type="button" class="btn">ELIMINAR USUARIO</button>
+        </div>
+        </form>
+        </div>
+    </main>
+    <script src="./scripts/usuarios.js"></script>
+
+</body>
+
+</html>

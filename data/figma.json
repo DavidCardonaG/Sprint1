@@ -1,0 +1,31 @@
+{
+    "FIGMA": [
+      {
+        "pregunta": "¿Cual es la extensión correcta para archivos de figma?",
+        "imagen": "./images/Niña.png",
+        "correcta": " .fig ",
+        "respuesta1": " .figStyles ",
+        "respuesta2": " .figma ",
+        "respuesta3": " figma.css ",
+        "id": 1
+      },
+      {
+        "pregunta": "¿Que es FigJam File?",
+        "imagen": "./images/Niña.png",
+        "correcta": " Es una interfaz de figma, en la cual podremos diseñar diversos contenidos",
+        "respuesta1": " Pizzara online para desarrolar ",
+        "respuesta2": " Extensión de un archivo de figma ",
+        "respuesta3": " Marco de trabajo para compactar con css ",
+        "id": 2
+      },
+      {
+        "pregunta": "¿Que opciones de navegalidad ofrece figma",
+        "imagen": "./images/Niña.png",
+        "correcta": " prototipado ",
+        "respuesta1": " Tiene historial de versiones ",
+        "respuesta2": " Bibliotecas Diferentes ",
+        "respuesta3": " Navegabilidad con Js ",
+        "id": 3
+      }
+    ]
+  }
